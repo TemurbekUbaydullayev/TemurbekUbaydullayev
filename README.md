@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Temurbek 👋
 
-<!--
-**TemurbekUbaydullayev/TemurbekUbaydullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Backend Developer from Tashkent, Uzbekistan.  
+I build clean, practical backend systems with C# and ASP.NET Core.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Language:** C#
+- **Framework:** ASP.NET Core, .NET 8
+- **Database:** PostgreSQL, MSSQL, Entity Framework Core
+- **Tools:** Git, Docker (learning), REST API, JWT Auth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+Building 3 real-world deployable projects as part of a 40-day challenge:
+- [ ] Bakery Order Management System (ASP.NET Core + PostgreSQL)
+- [ ] Telegram Bot + REST API backend
+- [ ] Portfolio site with full CV
+
+## 📌 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [Cinema](https://github.com/TemurbekUbaydullayev/Cinema) | Cinema booking backend | C#, .NET |
+| [Delivery Admin Panel](https://github.com/TemurbekUbaydullayev/online-delivery-admin-panel) | Online delivery management | C#, .NET |
+| [CRM Najot](https://github.com/TemurbekUbaydullayev/crm-najot-academy) | Academy CRM system | C#, .NET |
+
+## 📫 Contact
+- Email: ubaydullayev117@gmail.com
+- Location: Tashkent, Uzbekistan
